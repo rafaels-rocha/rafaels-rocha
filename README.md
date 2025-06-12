@@ -1,6 +1,6 @@
 👋 Olá! Eu sou Rafael Rocha
 
-💻 Desenvolvedor Fullstack com 1 ano de experiência em PHP, JavaScript e React, além de conhecimentos em Next.js.
+💻 Desenvolvedor Fullstack com 2 ano de experiência em PHP, JavaScript e React, além de conhecimentos em Next.js.
 
 🚀 Apaixonado por criar soluções web personalizadas, focando em interfaces responsivas, intuitivas e altamente funcionais.
 
